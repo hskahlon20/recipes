@@ -5,6 +5,7 @@ For chicken and marinade:
 2 cloves garlic minced
 1 tbsp garam masala
 1 tsp kosher salt
+
 For sauce:
 ¼ cup vegetable oil
 2 ½ cups chopped onion about 2 medium-large
@@ -17,3 +18,5 @@ For sauce:
 ¾ cup heavy 35% or whipping cream
 2 tbsp butter
 Chopped cilantro to garnish (optional)
+
+Cooking Instructions to follow in a seperate file.
